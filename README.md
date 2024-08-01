@@ -9,4 +9,4 @@ A MapReduce program that calculates the top 20 movies with the highest average r
 A MapReduce program that identifies the top 20 movies with the highest average ratings and more than 400 ratings using AWS Hadoop.
 
 ## non_mapreduce_approach_python.ipynb
-A Python script in Jupyter Notebook to find the top 20 highest-rated movies without using MapReduce.
+A Python script in Jupyter Notebook to find the top 20 highest-rated movies and top 20 movies with the highest average ratings with more than 400 ratings without using MapReduce.
